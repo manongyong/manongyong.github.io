@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>码农的文档</title>
+  
+  
+  <link href="https://manongyong.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://manongyong.github.io/"/>
+  <updated>2024-07-01T11:16:39.499Z</updated>
+  <id>https://manongyong.github.io/</id>
+  
+  <author>
+    <name>manongyong</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://manongyong.github.io/2024/07/01/hello-world/"/>
+    <id>https://manongyong.github.io/2024/07/01/hello-world/</id>
+    <published>2024-07-01T10:46:56.172Z</published>
+    <updated>2024-07-01T11:16:39.499Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
